@@ -1,0 +1,34 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "NetworkManager"
+theme = "ananke"
+
+Paginate = 20 # this is set low for demonstrating with dummy content. Set to a higher number
+
+DefaultContentLanguage = "en"
+
+SectionPagesMenu = "main"
+
+googleAnalytics = ""
+
+enableRobotsTXT = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+  [params]
+  author = "Miracle Eze"
+  description = "Outreachy Contribution"
+  site_logo = ""
+
+  info = "Improve NetworkManager Documentation"
+
+  facebook = ""
+  twitter = "https://twitter.com/kasie_miracle"
+ 
+  github = "https://github.com/Miracle-web"
+  gitlab = "https://gitlab.freedesktop.org/Miracle"
+  linkedin = "https://www.linkedin.com/in/miracle-eze-kasiemobi/"

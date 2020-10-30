@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "networkmanager.pages.freedesktop.org1"]
+	path = networkmanager.pages.freedesktop.org1
+	url = https://gitlab.freedesktop.org/NetworkManager/networkmanager.pages.freedesktop.org.git
